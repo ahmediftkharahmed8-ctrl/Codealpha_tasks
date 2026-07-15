@@ -1,0 +1,4 @@
+Name :
+Age :19
+gpa :3.2
+Place OF Birth

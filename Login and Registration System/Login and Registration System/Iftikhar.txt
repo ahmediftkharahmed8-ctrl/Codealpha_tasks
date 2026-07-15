@@ -1,0 +1,4 @@
+Name :Iftikhar
+Age :19
+gpa :2.93
+Place OF BirthHaripur

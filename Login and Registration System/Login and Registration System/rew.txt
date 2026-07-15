@@ -1,0 +1,4 @@
+Name :rew
+Age :0
+gpa :3.2
+Place OF Birth
